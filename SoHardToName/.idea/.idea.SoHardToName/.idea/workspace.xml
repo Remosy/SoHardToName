@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8f61369-633f-49ed-94c2-d9b03e2a7da3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1301668682">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="9" />
+          <entry key="cshtml" value="25" />
+          <entry key="css" value="4" />
+          <entry key="ico" value="1" />
+          <entry key="js" value="1" />
+          <entry key="json" value="4" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="9" />
+          <entry key="CSS" value="4" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Razor" value="25" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="55" />
+          <entry key="cshtml" value="416" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="55" />
+          <entry key="Razor" value="416" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solution/Views/Home/About.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <marker date="1539011476511" expanded="true" signature="0:37" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solution/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <marker date="1539019846523" expanded="true" signature="0:41" ph="@..." />
+                <marker date="1539019846523" expanded="true" signature="43:689" ph="&lt;div.../&gt;" />
+                <marker date="1539019846523" expanded="true" signature="215:681" ph="&lt;div.../&gt;" />
+                <marker date="1539019846523" expanded="true" signature="268:478" ph="&lt;div.../&gt;" />
+                <marker date="1539019846523" expanded="true" signature="493:662" ph="&lt;button.../&gt;" />
+                <marker date="1539019846523" expanded="true" signature="937:1022" ph="&lt;!--...--&gt;" />
+                <marker date="1539019846523" expanded="true" signature="1599:1637" ph="&lt;script.../&gt;" />
+                <marker date="1539019846523" expanded="true" signature="1746:2420" ph="&lt;script.../&gt;" />
+                <marker date="1539019846523" expanded="true" signature="1834:2408" ph="{...}" />
+                <marker date="1539019846523" expanded="true" signature="1864:2218" ph="{...}" />
+                <marker date="1539019846523" expanded="true" signature="1976:2212" ph="[...]" />
+                <marker date="1539019846523" expanded="true" signature="1977:2211" ph="{...}" />
+                <marker date="1539019846523" expanded="true" signature="2233:2404" ph="{...}" />
+                <marker date="1539019846523" expanded="true" signature="2249:2349" ph="{...}" />
+                <marker date="1539019846523" expanded="true" signature="2266:2341" ph="[...]" />
+                <marker date="1539019846523" expanded="true" signature="2267:2340" ph="{...}" />
+                <marker date="1539019846523" expanded="true" signature="2286:2330" ph="{...}" />
+                <marker date="1539019846523" expanded="true" signature="2365:2398" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solution/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <marker date="1539019773257" expanded="true" signature="6:177" ph="..." />
+                <marker date="1539019773257" expanded="true" signature="209:1007" ph="{...}" />
+                <marker date="1539019773257" expanded="true" signature="256:1005" ph="{...}" />
+                <marker date="1539019773257" expanded="true" signature="299:346" ph="{...}" />
+                <marker date="1539019773257" expanded="true" signature="384:504" ph="{...}" />
+                <marker date="1539019773257" expanded="true" signature="544:648" ph="{...}" />
+                <marker date="1539019773257" expanded="true" signature="688:735" ph="{...}" />
+                <marker date="1539019773257" expanded="true" signature="866:999" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solution/Models/ErrorViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding>
+                <marker date="1539011476523" expanded="true" signature="40:206" ph="{...}" />
+                <marker date="1539011476523" expanded="true" signature="74:204" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Solution/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+              <folding>
+                <marker date="1539020477913" expanded="true" signature="16:3303" ph="&lt;html.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="35:1097" ph="&lt;head.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="345:565" ph="&lt;environment.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="570:1087" ph="&lt;environment.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="1101:3295" ph="&lt;body.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="1132:1974" ph="&lt;div.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="1211:1735" ph="&lt;header.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="1253:1719" ph="&lt;div.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="1341:1704" ph="&lt;nav.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="1749:1823" ph="&lt;main.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="1831:1963" ph="&lt;footer.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="1873:1947" ph="&lt;div.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="1981:2070" ph="&lt;!--...--&gt;" />
+                <marker date="1539020477913" expanded="true" signature="2145:2385" ph="&lt;environment.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="2388:3285" ph="&lt;environment.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="2428:2756" ph="&lt;script.../&gt;" />
+                <marker date="1539020477913" expanded="true" signature="2761:3150" ph="&lt;script.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solution/wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4725">
+              <caret line="383" column="22" selection-start-line="383" selection-start-column="16" selection-end-line="383" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solution/Views/Home/Contact.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <folding>
+                <marker date="1539013979474" expanded="true" signature="0:39" ph="@..." />
+                <marker date="1539013979474" expanded="true" signature="100:779" ph="&lt;div.../&gt;" />
+                <marker date="1539013979474" expanded="true" signature="164:450" ph="&lt;div.../&gt;" />
+                <marker date="1539013979474" expanded="true" signature="474:753" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>circle</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Solution/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ChallengeSolution/Views/Home/About.cshtml" />
+        <option value="$PROJECT_DIR$/ChallengeSolution/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/ChallengeSolution/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/ChallengeSolution/Views/Shared/_ValidationScriptsPartial.cshtml" />
+        <option value="$PROJECT_DIR$/ChallengeSolution/Views/Home/Contact.cshtml" />
+        <option value="$PROJECT_DIR$/ChallengeSolution/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Solution/Views/Home/Contact.cshtml" />
+        <option value="$PROJECT_DIR$/Solution/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Solution/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Solution/Views/Shared/_Layout.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="204" />
+    <option name="y" value="72" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="css" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="lib" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="lib" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="bootstrap" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="lib" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="bootstrap" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="dist" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="lib" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="bootstrap" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="dist" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="css" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SoHardToName" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="lib" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="bootstrap" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="dist" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="css" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="bootstrap.css" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="SoHardToName" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Solution/bin/Debug/netcoreapp2.1/Solution.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Solution" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Solution/Solution.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8f61369-633f-49ed-94c2-d9b03e2a7da3" name="Default Changelist" comment="" />
+      <created>1539004006795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539004006795</updated>
+      <workItem from="1539004009939" duration="6425000" />
+      <workItem from="1539010641724" duration="5606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12031000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="204" y="72" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25110132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32929516" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3298969" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2496318" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="2" />
+      <window_info anchor="bottom" id="REST Client" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32929516" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.25110132" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Errors In Solution" order="0" weight="0.3298969" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/wwwroot/css/carousel.css" />
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/wwwroot/lib/bootstrap/site/docs/4.1/assets/img/favicons/browserconfig.xml" />
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" />
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/wwwroot/lib/bootstrap/dist/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/wwwroot/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Program.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/wwwroot/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Home/Privacy.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Shared/_CookieConsentPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Shared/_ValidationScriptsPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="94" selection-start-line="2" selection-start-column="94" selection-end-line="2" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Shared/Error.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jjj/ChallengeSolution/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4725">
+          <caret line="383" column="22" selection-start-line="383" selection-start-column="16" selection-end-line="383" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding>
+            <marker date="1539013979474" expanded="true" signature="0:39" ph="@..." />
+            <marker date="1539013979474" expanded="true" signature="100:779" ph="&lt;div.../&gt;" />
+            <marker date="1539013979474" expanded="true" signature="164:450" ph="&lt;div.../&gt;" />
+            <marker date="1539013979474" expanded="true" signature="474:753" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1539011476511" expanded="true" signature="0:37" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <marker date="1539011476523" expanded="true" signature="40:206" ph="{...}" />
+            <marker date="1539011476523" expanded="true" signature="74:204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <marker date="1539019773257" expanded="true" signature="6:177" ph="..." />
+            <marker date="1539019773257" expanded="true" signature="209:1007" ph="{...}" />
+            <marker date="1539019773257" expanded="true" signature="256:1005" ph="{...}" />
+            <marker date="1539019773257" expanded="true" signature="299:346" ph="{...}" />
+            <marker date="1539019773257" expanded="true" signature="384:504" ph="{...}" />
+            <marker date="1539019773257" expanded="true" signature="544:648" ph="{...}" />
+            <marker date="1539019773257" expanded="true" signature="688:735" ph="{...}" />
+            <marker date="1539019773257" expanded="true" signature="866:999" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <marker date="1539019846523" expanded="true" signature="0:41" ph="@..." />
+            <marker date="1539019846523" expanded="true" signature="43:689" ph="&lt;div.../&gt;" />
+            <marker date="1539019846523" expanded="true" signature="215:681" ph="&lt;div.../&gt;" />
+            <marker date="1539019846523" expanded="true" signature="268:478" ph="&lt;div.../&gt;" />
+            <marker date="1539019846523" expanded="true" signature="493:662" ph="&lt;button.../&gt;" />
+            <marker date="1539019846523" expanded="true" signature="937:1022" ph="&lt;!--...--&gt;" />
+            <marker date="1539019846523" expanded="true" signature="1599:1637" ph="&lt;script.../&gt;" />
+            <marker date="1539019846523" expanded="true" signature="1746:2420" ph="&lt;script.../&gt;" />
+            <marker date="1539019846523" expanded="true" signature="1834:2408" ph="{...}" />
+            <marker date="1539019846523" expanded="true" signature="1864:2218" ph="{...}" />
+            <marker date="1539019846523" expanded="true" signature="1976:2212" ph="[...]" />
+            <marker date="1539019846523" expanded="true" signature="1977:2211" ph="{...}" />
+            <marker date="1539019846523" expanded="true" signature="2233:2404" ph="{...}" />
+            <marker date="1539019846523" expanded="true" signature="2249:2349" ph="{...}" />
+            <marker date="1539019846523" expanded="true" signature="2266:2341" ph="[...]" />
+            <marker date="1539019846523" expanded="true" signature="2267:2340" ph="{...}" />
+            <marker date="1539019846523" expanded="true" signature="2286:2330" ph="{...}" />
+            <marker date="1539019846523" expanded="true" signature="2365:2398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <folding>
+            <marker date="1539020477913" expanded="true" signature="16:3303" ph="&lt;html.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="35:1097" ph="&lt;head.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="345:565" ph="&lt;environment.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="570:1087" ph="&lt;environment.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="1101:3295" ph="&lt;body.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="1132:1974" ph="&lt;div.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="1211:1735" ph="&lt;header.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="1253:1719" ph="&lt;div.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="1341:1704" ph="&lt;nav.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="1749:1823" ph="&lt;main.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="1831:1963" ph="&lt;footer.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="1873:1947" ph="&lt;div.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="1981:2070" ph="&lt;!--...--&gt;" />
+            <marker date="1539020477913" expanded="true" signature="2145:2385" ph="&lt;environment.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="2388:3285" ph="&lt;environment.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="2428:2756" ph="&lt;script.../&gt;" />
+            <marker date="1539020477913" expanded="true" signature="2761:3150" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -6,43 +6,29 @@ This is a temporary script file.
 """
 import pandas as pd
 import numpy as np
+import cost_estimation
 
 trucks_amount = 16
 load_time = (33.8 * 5 + 30 + 30) / 60
 paths = []
-df = pd.read_excel('Scenario1.xlsx','Excavator01').convert_objects(convert_numeric=True).fillna(0)
-paths.append(df.iloc[2:,0:5].values)
-df = pd.read_excel('Scenario1.xlsx','Excavator02').convert_objects(convert_numeric=True).fillna(0)
-paths.append(df.iloc[2:,0:5].values)
-df = pd.read_excel('Scenario1.xlsx','Excavator03').convert_objects(convert_numeric=True).fillna(0)
-paths.append(df.iloc[2:,0:5].values)
-
-def cost(path,load):
-    count = 0
-    cost = 0
-    while (path[count,3] != 0):
-        cost += path[count,3] * (load / 330) ** 0.5
-        cost += path[count,4]
-        count += 1
-    return cost
-        
-    cost += path[count,3] * (load / 330) ** 0.5
-    cost += path[count,4] 
-
-cycle_cost_hist = np.zeros((N,3))
+df = pd.read_excel('Scenario1.xlsx','Excavator01').convert_objects(convert_numeric=True).fillna(0).round(2)
+paths.append(df.iloc[2:,0:5].values.astype(float))
+df = pd.read_excel('Scenario1.xlsx','Excavator02').convert_objects(convert_numeric=True).fillna(0).round(2)
+paths.append(df.iloc[2:,0:5].values.astype(float))
+df = pd.read_excel('Scenario1.xlsx','Excavator03').convert_objects(convert_numeric=True).fillna(0).round(2)
+paths.append(df.iloc[2:,0:5].values.astype(float))
     
 def fitness(n,paths,loads,assignments):
     productivity = 0.0
     for i in range(0,3):
-        cycle_cost = max(cost(paths[i],loads[i]) / assignments[i],load_time)
+        cycle_cost = max(cost_estimation.query(paths[i],loads[i]) / assignments[i],load_time)
         if assignments[i] == 1 :
             cycle_cost += load_time
-        cycle_cost_hist[n,i] = cycle_cost
         productivity += (loads[i]-124) * (60 / cycle_cost)
     return productivity
     
 N = 100
-G = 200
+G = 50
 T = 20
 sigma = 10
 

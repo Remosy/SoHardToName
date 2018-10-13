@@ -14,8 +14,6 @@ rimpull = pd.read_excel('Truck_Spec.xlsx','Rimpull').convert_objects(convert_num
 acc = 1.5
 
 def getMaxV(force):
-    i = -1
-   
     while (force < rimpull[i + 1, 1]): 
         print(i)
         i += 1

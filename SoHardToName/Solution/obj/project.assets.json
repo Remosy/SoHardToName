@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/remosy/Desktop/SoHardToName-master/SoHardToName/Solution/Solution.csproj",
+      "projectUniqueName": "/Users/remosy/Desktop/SoHardToName/SoHardToName/Solution/Solution.csproj",
       "projectName": "Solution",
-      "projectPath": "/Users/remosy/Desktop/SoHardToName-master/SoHardToName/Solution/Solution.csproj",
+      "projectPath": "/Users/remosy/Desktop/SoHardToName/SoHardToName/Solution/Solution.csproj",
       "packagesPath": "/Users/remosy/.nuget/packages/",
-      "outputPath": "/Users/remosy/Desktop/SoHardToName-master/SoHardToName/Solution/obj/",
+      "outputPath": "/Users/remosy/Desktop/SoHardToName/SoHardToName/Solution/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -16,3 +16,6 @@ points = np.zeros((data.shape[0],2))
 points[:,0] = data[:,1]
 points[:,1] = data[:,2] / data[:,0]
 points[:,0] += 124
+
+#%%
+rs = pd.read_excel('road/Road Segment Data.xlsx').fillna(0).round(2)

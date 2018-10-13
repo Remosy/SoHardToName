@@ -59,14 +59,23 @@ def query(path,load):
     startV = 0.0
     total = 0.0
     for i in range(path.shape[0]-1):
-        
+        '''
         tup = seg_hist[(seg_hist['x1']==path[i,1])&(seg_hist['y1']==path[i,0])&
                        (seg_hist['z1']==path[i,2])&(seg_hist['x2']==path[i+1,1])&
                        (seg_hist['y2']==path[i+1,0])&(seg_hist['z2']==path[i+1,2])]  
+
         if tup.empty:
-            cost = path[i,3]
-            startV = getMaxV(load * 120)
-        else :(cost,startV) = estimate(load,startV,tup['EfhLength'].values[0],
+            #print('undefined road seg')
+            
+        else :
+            print('found')
+            (cost,startV) = estimate(load,startV,tup['EfhLength'].values[0],
                  tup['SlopeLength'].values[0],tup['RiseHeight'])
+        '''
+        slopeLength = math.sqrt((path[i,0] - path[i+1,0])**2 + 
+                               (path[i,1] - path[i+1,1])**2 +
+                               (path[i,2] - path[i+1,2])**2)
+        slopeHeight = max(path[i+1,2]-path[i,2],0)
+        (cost,startV) = estimate(load,startV,slopeLength,slopeLength,slopeHeight)
         total += cost + path[i+1,4]
     return total/60

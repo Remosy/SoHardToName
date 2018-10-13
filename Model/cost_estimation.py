@@ -10,6 +10,7 @@ import numpy as np
 import math
 
 rimpull = pd.read_excel('Truck_Spec.xlsx','Rimpull').convert_objects(convert_numeric=True).fillna(0).values
+seg_hist = pd.read_csv('road/roadSegment.csv')
 
 acc = 1.5
 
@@ -52,4 +53,8 @@ def estimate(load,startV,totalLength,slopeLength,slopeHeight):
         (cost2,endV) = estimate(load,endV,slopeLength,slopeHeight)
         (cost3,endV) = estimate(load,endV,(totalLength - slopeLength) / 2,0)
         return (cost1 + cost2 + cost3, endV)
+    
+def query(load,x1,y1,z1,x2,y2,z2):
+   tup = seg_hist[(seg_hist['x1']==x1)&(seg_hist['y1']==y1)&(seg_hist['z1']==z1)
+   &(seg_hist['x2']==x2)&(seg_hist['y2']==y2)&(seg_hist['z2']==z2)] 
         

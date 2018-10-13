@@ -82,6 +82,7 @@ for dur in durationlist.keys():
 
 
 #Calculate Direct of Coord
+"""
 for c in datalist.keys():
      start_x = c[0][0]
      start_y = c[0][1]
@@ -95,6 +96,7 @@ for c in datalist.keys():
      cos = d_z/sqrt((d_x)**2+(d_y)**2+(d_z)**2)
      ang = degrees(cos)
      directlist[c] = ang
+"""
 #for k,v in sorted(durationlist.items(), key = itemgetter(1)):
      #print (k,v)
 #print("")
@@ -152,9 +154,9 @@ for k in datalist.keys():
     final_x1.append(k[0][0])
     final_y1.append(k[0][1])
     final_z1.append(k[0][2])
-    final_x2.append(k[0][0])
-    final_y2.append(k[0][1])
-    final_z2.append(k[0][2])
+    final_x2.append(k[1][0])
+    final_y2.append(k[1][1])
+    final_z2.append(k[1][2])
     final_duration.append(durationlist[k])
     final_EfhLength.append(datalist[k][0])
     final_SlopeLength.append(datalist[k][1])

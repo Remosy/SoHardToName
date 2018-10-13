@@ -36,5 +36,7 @@ def index_data(data_path, chunksize, index_name, doc_type):
     except AssertionError as error:
         print("!!!!!!"+error)
         pass
+
+
 index_data(train_data_path, CHUNKSIZE, index_name_train, doc_type_train) # Indexing train data
 index_data(test_data_path, CHUNKSIZE, index_name_test, doc_type_test) # Indexing test data

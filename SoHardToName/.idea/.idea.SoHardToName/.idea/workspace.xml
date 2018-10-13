@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8f61369-633f-49ed-94c2-d9b03e2a7da3" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SoHardToName/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SoHardToName/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SoHardToName/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SoHardToName/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SoHardToName/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SoHardToName/riderModule.iml" afterDir="false" />
+=======
       <change afterPath="$PROJECT_DIR$/.idea/.idea.SoHardToName/.idea/indexLayout.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.idea.SoHardToName/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.idea.SoHardToName/.idea/vcs.xml" afterDir="false" />
@@ -32,6 +37,7 @@
       <change beforePath="$PROJECT_DIR$/Solution/obj/Solution.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Solution/obj/Solution.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Solution/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Solution/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution/obj/project.packagespec.json" afterDir="false" />
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,11 +90,18 @@
         </counts>
       </usages-collector>
     </session>
+<<<<<<< HEAD
+    <session id="-921279283">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+=======
     <session id="1914996266">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.7" value="1" />
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -99,11 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Solution/Views/Home/About.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <marker date="1539011476511" expanded="true" signature="0:37" ph="@..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -111,6 +121,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Solution/Views/Home/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="-175">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+=======
             <state relative-caret-position="-217">
               <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding>
@@ -133,25 +147,20 @@
                 <marker date="1539019846523" expanded="true" signature="2286:2330" ph="{...}" />
                 <marker date="1539019846523" expanded="true" signature="2365:2398" ph="{...}" />
               </folding>
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Solution/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="90">
+=======
             <state relative-caret-position="-33">
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
               <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-              <folding>
-                <marker date="1539019773257" expanded="true" signature="6:177" ph="..." />
-                <marker date="1539019773257" expanded="true" signature="209:1007" ph="{...}" />
-                <marker date="1539019773257" expanded="true" signature="256:1005" ph="{...}" />
-                <marker date="1539019773257" expanded="true" signature="299:346" ph="{...}" />
-                <marker date="1539019773257" expanded="true" signature="384:504" ph="{...}" />
-                <marker date="1539019773257" expanded="true" signature="544:648" ph="{...}" />
-                <marker date="1539019773257" expanded="true" signature="688:735" ph="{...}" />
-                <marker date="1539019773257" expanded="true" signature="866:999" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -159,11 +168,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Solution/Models/ErrorViewModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="135">
               <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+<<<<<<< HEAD
+=======
               <folding>
                 <marker date="1539011476523" expanded="true" signature="74:204" ph="{...}" />
               </folding>
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
             </state>
           </provider>
         </entry>
@@ -171,6 +183,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Solution/Views/Shared/_Layout.cshtml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="555">
+              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+=======
             <state relative-caret-position="-177">
               <caret line="30" column="63" lean-forward="true" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
               <folding>
@@ -192,6 +208,7 @@
                 <marker date="1539020477913" expanded="true" signature="2428:2756" ph="&lt;script.../&gt;" />
                 <marker date="1539020477913" expanded="true" signature="2761:3150" ph="&lt;script.../&gt;" />
               </folding>
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
             </state>
           </provider>
         </entry>
@@ -199,8 +216,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Solution/wwwroot/lib/bootstrap/dist/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="1150">
+              <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+=======
             <state relative-caret-position="6128">
               <caret line="383" column="22" selection-start-line="383" selection-start-column="16" selection-end-line="383" selection-end-column="22" />
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
             </state>
           </provider>
         </entry>
@@ -208,14 +230,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Solution/Views/Home/Contact.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="105">
               <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-              <folding>
-                <marker date="1539013979474" expanded="true" signature="0:39" ph="@..." />
-                <marker date="1539013979474" expanded="true" signature="100:779" ph="&lt;div.../&gt;" />
-                <marker date="1539013979474" expanded="true" signature="164:450" ph="&lt;div.../&gt;" />
-                <marker date="1539013979474" expanded="true" signature="474:753" ph="&lt;div.../&gt;" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -231,12 +247,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
+    <setting file="file://$PROJECT_DIR$/Solution/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Views/Home/About.cshtml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Solution/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
+=======
     <setting file="file://$PROJECT_DIR$/Solution/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Solution/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Solution/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Solution/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Solution/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Solution/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -260,9 +285,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="204" />
-    <option name="y" value="72" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="203" />
+    <option name="y" value="71" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -332,7 +357,7 @@
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_KIND" value="Unloaded" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
       <browser start="true" url="https://localhost:5001" />
       <method v="2">
@@ -352,12 +377,20 @@
       <updated>1539004006795</updated>
       <workItem from="1539004009939" duration="6425000" />
       <workItem from="1539010641724" duration="5606000" />
+<<<<<<< HEAD
+      <workItem from="1539244158799" duration="867000" />
+=======
       <workItem from="1539244791861" duration="603000" />
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="12898000" />
+=======
     <option name="totallyTimeSpent" value="12634000" />
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,10 +402,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18364611" />
+=======
     <frame x="204" y="72" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2569956" />
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -390,7 +430,8 @@
       <window_info anchor="bottom" id="REST Client" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="15" weight="0.32929516" />
+      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32907802" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -467,6 +508,26 @@
     <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Shared/Error.cshtml" />
     <entry file="file://$PROJECT_DIR$/ChallengeSolution/Views/Shared/_Layout.cshtml" />
     <entry file="file://$PROJECT_DIR$/../jjj/ChallengeSolution/Views/Home/Contact.cshtml" />
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Solution/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+=======
     <entry file="file://$PROJECT_DIR$/Solution/Models/ErrorViewModel.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -474,11 +535,16 @@
           <folding>
             <marker date="1539011476523" expanded="true" signature="74:204" ph="{...}" />
           </folding>
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Solution/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="555">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+=======
         <state relative-caret-position="-177">
           <caret line="30" column="63" lean-forward="true" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
           <folding>
@@ -500,11 +566,23 @@
             <marker date="1539020477913" expanded="true" signature="2428:2756" ph="&lt;script.../&gt;" />
             <marker date="1539020477913" expanded="true" signature="2761:3150" ph="&lt;script.../&gt;" />
           </folding>
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Solution/wwwroot/lib/bootstrap/dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1150">
+          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+=======
         <state relative-caret-position="6128">
           <caret line="383" column="22" selection-start-line="383" selection-start-column="16" selection-end-line="383" selection-end-column="22" />
         </state>
@@ -547,11 +625,16 @@
             <marker date="1539019846523" expanded="true" signature="2286:2330" ph="{...}" />
             <marker date="1539019846523" expanded="true" signature="2365:2398" ph="{...}" />
           </folding>
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Solution/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+=======
         <state relative-caret-position="-33">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
@@ -574,6 +657,7 @@
           <folding>
             <marker date="1539011476511" expanded="true" signature="0:37" ph="@..." />
           </folding>
+>>>>>>> d997bb7cea5936c7153089f1bfdb361ec5808a87
         </state>
       </provider>
     </entry>

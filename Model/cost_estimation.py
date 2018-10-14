@@ -25,27 +25,43 @@ def getMaxV(force):
     highs = rimpull[i, 0]
     return (lows + (highs - lows) * (force - lowf) / (highf - lowf))/3.6
 
-def estimate(load,startV,totalLength,slopeLength,slopeHeight):
+def estimate(load,fric_coef,startV,totalLength,slopeLength,slopeHeight):
     if (slopeHeight/slopeLength <= 0.01) :
-        maxV = getMaxV(load * 120)
-        accDistance = abs(startV - maxV) / acc * (startV + maxV) / 2
+        maxV = getMaxV(load * 1000 * fric_coef)+0.00000001
+        if (startV - maxV > 0) :
+            acc = -0.8
+        else:
+            acc = 1.5
+        #print(maxV)
+        accDistance = (maxV - startV) / acc * (startV + maxV) / 2
         if accDistance < totalLength:
             cost = (accDistance/ ((startV + maxV) / 2) + 
                     (totalLength - accDistance) / maxV)
             return (cost,maxV)
         else:
-            cost = (-startV+math.sqrt(startV**2+3*totalLength))/acc
+            if acc > 0:
+                cost = (-startV+math.sqrt(startV**2+3*totalLength))/acc
+            else:
+                cost = (-startV-math.sqrt(startV**2+3*totalLength))/acc
             endV = cost*acc + startV
             return (cost,endV)
     elif (totalLength - slopeLength <= 10):
-        maxV = getMaxV(load * math.sin(slopeHeight/slopeLength) * 1000)
-        accDistance = abs(startV - maxV) / acc * (startV + maxV) / 2
+        maxV = getMaxV(load * ((slopeHeight/slopeLength) + 
+                               math.sqrt(1 - (slopeHeight/slopeLength)**2)*fric_coef) * 1000) + 0.00000001
+        if (startV - maxV > 0):
+            acc = -9.8 * (slopeHeight/slopeLength)
+        else:
+            acc = 1.5
+        accDistance = ((maxV - startV) / acc * (startV + maxV) / 2)
         if accDistance < totalLength:
             cost = (accDistance/ ((startV + maxV) / 2) + 
                     (totalLength - accDistance) / maxV)
             return (cost,maxV)
         else:
-            cost = (-startV+math.sqrt(startV**2+3*totalLength))/acc
+            if acc > 0:
+                cost = (-startV+math.sqrt(startV**2+3*totalLength))/acc
+            else:
+                cost = (-startV-math.sqrt(startV**2+3*totalLength))/acc
             endV = cost*acc + startV
             return (cost,endV)
     else:
@@ -54,11 +70,12 @@ def estimate(load,startV,totalLength,slopeLength,slopeHeight):
         (cost3,endV) = estimate(load,endV,(totalLength - slopeLength) / 2,0)
         return (cost1 + cost2 + cost3, endV)
     
-def query(path,load):
+def query(path,load,fric_coef):
     cost = 0.0
     startV = 0.0
     total = 0.0
     for i in range(path.shape[0]-1):
+        if path[i+1,0] == 0 : break
         '''
         tup = seg_hist[(seg_hist['x1']==path[i,1])&(seg_hist['y1']==path[i,0])&
                        (seg_hist['z1']==path[i,2])&(seg_hist['x2']==path[i+1,1])&
@@ -76,6 +93,6 @@ def query(path,load):
                                (path[i,1] - path[i+1,1])**2 +
                                (path[i,2] - path[i+1,2])**2)
         slopeHeight = max(path[i+1,2]-path[i,2],0)
-        (cost,startV) = estimate(load,startV,slopeLength,slopeLength,slopeHeight)
-        total += cost + path[i+1,4]
-    return total/60
+        (cost,startV) = estimate(load,fric_coef,startV,slopeLength,slopeLength,slopeHeight)
+        total += cost/60 + path[i+1,4]
+    return total

@@ -1,6 +1,18 @@
 # SoHardToName
-Google Drive: https://drive.google.com/drive/folders/1mDQAXGMNgzJMJ2i2XVjeuxClwftF_fVz?usp=sharing
+Built model on cycle time and payload. Generate optimal truck settings to maximize productivity.
 
-Document: https://docs.google.com/document/d/16PH0Be4AEmneSXR0oSd7ekieQItGLtL-U0viaoCoYOA/edit# 
+# Results:
+(1)Increase 22% of current tonnage; 
 
-PPT: https://docs.google.com/presentation/d/14G2CDpF8EoX6sYaIOgRZw0c3l1wXatkEUV5D4kkkeIY/edit?usp=sharing
+(2)Get optimal schedules with weights
+
+## Model
+GASolver.py:Use Genetic Algorithm to generate optimal solutions(schedule)
+
+cost_estimation.py: Use physical theories to calculate truck's resistances, speeds, de/acceleration, 
+
+main.py: Connect to Kibana & Elastic (test)
+
+roadsegment.py:Extract road segments and related info
+
+traverse cost.py: Plot 
